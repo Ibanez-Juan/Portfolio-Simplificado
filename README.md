@@ -48,6 +48,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ## 💻 Projeto
 
-[O projeto está disponível em:](https://ibanez-juan.github.io/Portifolio-Simplificado/)
+O projeto está disponível em: [portifolio | Juan Ibanez](https://ibanez-juan.github.io/Portifolio-Simplificado/)
 
 Feito com ♥ by Juan Ibanez!
