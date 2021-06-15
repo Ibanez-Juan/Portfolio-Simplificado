@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Portifolio" title="Portifolio" src=".github/logo.png" />
+    <img alt="Portifolio" title="Portifolio" src=".github/favicon.png" />
 </h1>
 
 <p align="center">
