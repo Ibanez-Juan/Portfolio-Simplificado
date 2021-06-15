@@ -6,7 +6,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Links">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -40,13 +41,13 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 
 - [Layout Web](https://www.figma.com/file/C6sICQWMCv6UAjtnB1NEwa/Projeto-portifolio?node-id=0%3A1)
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-## 🔗 Projeto | Links
+## 🔗 Links
 
 O projeto está disponível em: [portifolio | Juan Ibanez](https://ibanez-juan.github.io/Portifolio-Simplificado/) para visualizar.
 
