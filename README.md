@@ -48,8 +48,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ## 🔗 Projeto
 
-O projeto está disponível em: [portifolio | Juan Ibanez](https://ibanez-juan.github.io/Portifolio-Simplificado/)
+O projeto está disponível em: [portifolio | Juan Ibanez](https://ibanez-juan.github.io/Portifolio-Simplificado/) para acessar online.
 
-Baixe o projeto original em: [bootstrapmade](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
+Baixe o projeto original em: [bootstrapmade](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/) versão gratuita ou paga.
 
 Feito com ♥ by Juan Ibanez!
