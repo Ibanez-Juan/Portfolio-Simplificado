@@ -218,6 +218,10 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# BreadCrumbs Section
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
@@ -1018,6 +1022,18 @@ section {
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
+.breadcrumbs > div > div > h2 {
+  color: rgb(130, 87, 230);
+}
+
+.breadcrumbs > div > div > ol > li {
+  color: rgb(130, 87, 230);
+}
+
+.breadcrumbs > div > div > ol > li > a {
+  color: rgb(168, 168, 179);
+}
+
 .breadcrumbs {
   padding: 20px 0;
   background: #f9f9f9;
@@ -1044,8 +1060,9 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #0e2442;
-  content: "/";
+  color: rgb(168, 168, 179);
+  font-size: 17px;
+  content: "»";
 }
 
 @media (max-width: 768px) {
