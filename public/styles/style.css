@@ -1035,12 +1035,12 @@ section {
 }
 
 .breadcrumbs {
-  padding: 20px 0;
+  padding: 19px 0;
   background: #f9f9f9;
 }
 
 .breadcrumbs h2 {
-  font-size: 26px;
+  font-size: 25px;
   font-weight: 300;
 }
 
@@ -1061,8 +1061,11 @@ section {
   display: inline-block;
   padding-right: 10px;
   color: rgb(168, 168, 179);
-  font-size: 17px;
+  font-size: 16px;
   content: "»";
+}
+.breadcrumbs ol li:hover{
+  cursor: default;
 }
 
 @media (max-width: 768px) {
