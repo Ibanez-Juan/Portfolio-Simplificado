@@ -30,6 +30,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://https://www.w3schools.com/css/default.asp/)
 - [Javascript](https://https://www.w3schools.com/js/default.asp/)
 - [Bootstrap](https://https://getbootstrap.com/)
+- [Aos](https://github.com/michalsnik/aos)
+- [Glightbox](https://github.com/biati-digital/glightbox)
+- [Isotope-Layout](https://github.com/metafizzy/isotope)
+- [Pureconter](https://github.com/srexi/purecounterjs)
+- [Swiper](https://github.com/nolimits4web/swiper)
+- [Typed](https://github.com/mattboldt/typed.js/)
+- [Waypoints](https://github.com/imakewebthings/waypoints)
+- [Formspree](https://formspree.io/) 
 
 ## 💻 Projeto
 
