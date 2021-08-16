@@ -62,3 +62,10 @@ O projeto está disponível em: [portfolio | Juan Ibanez](https://ibanez-juan.gi
 Baixe o projeto original em: [bootstrapmade](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/) versão gratuita ou paga.
 
 Feito com ♥ by Juan Ibanez!
+
+<!-- Próximos passos: 
+ - Ajutar as imagens e scripts para que o carregemento seja mais rápido;
+ - Ajutar os recursos mobiles do site buscando um melhor tempo de carregamento dos recursos do site;
+ - Retirar cod. não usados;
+ - Adicionar um tratamento de erros para o formulário de contato. 
+-->
